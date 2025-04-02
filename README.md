@@ -3,7 +3,7 @@
 > An automated, algorithmic and customizable trading system for Interactive Brokers.
 
 
-Author:  Aiqun Huang, aiqunhuang@knights.ucf.edu
+
 
 sharp is an automated trading system developed in connection with the C++ API provided by Interactive Brokers (IB), it has
 an easy-to-use Python interface, by which users can write their own strategies, explore and apply their own creative ideas
